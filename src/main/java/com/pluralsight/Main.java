@@ -9,8 +9,8 @@ public class Main {
         System.out.println("What is your name?: ");
         String name = inputScanner.nextLine();
 
-        System.out.printf("Hello " + name);
+        System.out.println("Hello " + name);
 
-
+        System.out.println("Goodbye " + name + "!");
     }
 }
