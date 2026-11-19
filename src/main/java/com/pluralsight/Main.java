@@ -11,5 +11,6 @@ public class Main {
 
         System.out.printf("Hello " + name);
 
+        System.out.println("Goodbye " + name + "!");
     }
 }
